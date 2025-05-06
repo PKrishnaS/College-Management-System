@@ -29,7 +29,7 @@ A PHP & MySQL-based web application that allows administrators to manage student
 - PHP and MySQL enabled
 - Basic understanding of PHP and SQL
 
-### Steps
+## Steps
 
 1. **Clone the Repository**
    ```bash
@@ -92,20 +92,20 @@ university-portal/
 └── README.md
 |__collegedb.sl
 ```
-##🔐 Login
+## 🔐 Login
 The system includes a simple login (login.php) and logout (logout.php) system using PHP sessions.
 
 Only authenticated users can access index.php and other core pages.
 
-##📌 Concurrency Control
+## 📌 Concurrency Control
 Each student record includes a last_updated timestamp.
 
 During updates, the timestamp is checked to prevent conflicting writes by different users at the same time.
 
-##📣 Contribution
+## 📣 Contribution
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-##📃 License
+## 📃 License
 This project is open-source and free to use under the MIT License.
 
 
