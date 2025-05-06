@@ -34,21 +34,21 @@ A PHP & MySQL-based web application that allows administrators to manage student
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/yourusername/university-portal.git```
-2. Copy Project Folder
+2. **Copy Project Folder**
 
-3.Paste the folder into htdocs (XAMPP) or www (WAMP) directory.
+3.**Paste the folder into htdocs (XAMPP) or www (WAMP) directory.**
 
-4.Import Database
+4.**Import Database**
 
-5.Open phpMyAdmin
+5.**Open phpMyAdmin**
 
-6.Create a new database named CollegeDB3
+6.**Create a new database named CollegeDB3**
 
-7.Import the provided SQL file (CollegeDB3.sql) located in the project folder
+7.**Import the provided SQL file (CollegeDB3.sql) located in the project folder**
 
-8.Configure Database
+8.**Configure Database**
 
-9.Open db.php and ensure credentials match your setup:
+9**Open db.php and ensure credentials match your setup:**
 
 php
 ```
@@ -59,7 +59,7 @@ Visit http://localhost/university-portal/ in your browser
 
 Login with your credentials to access the index page
 
-📂 Folder Structure
+## 📂 Folder Structure
 ```
 university-portal/
 │
