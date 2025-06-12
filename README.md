@@ -110,5 +110,4 @@ This project is open-source and free to use under the MIT License.
 
 
 
-Let me know if you'd like to include screenshots or a sample `.sql` file link in the README!
 
