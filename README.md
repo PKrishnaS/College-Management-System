@@ -100,7 +100,7 @@ Only authenticated users can access index.php and other core pages.
 ## 📌 Concurrency Control
 Each student record includes a last_updated timestamp.
 
-During updates, the timestamp is checked to prevent conflicting writes by different users at the same time.
+During updates, the timestamp is checked to prevent conflicting writes by different users at the same time!
 
 ## 📣 Contribution
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
